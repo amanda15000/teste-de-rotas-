@@ -6,7 +6,7 @@ import { Galera } from './galera/galera';
 export const routes: Routes = [
     {path:'resenha',component:Resenha},
     {path:'tropa',component:Tropa},
-    {path:'galera',component:Galera}
+    {path:'galera',component:Galera},
 ];
 
 //[] = a vetor

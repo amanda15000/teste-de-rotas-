@@ -6,7 +6,7 @@ import { Galera } from './galera/galera';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet,Resenha,Tropa, RouterLink,Galera],
+  imports: [RouterOutlet,Resenha,Tropa,Galera,RouterLink],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
